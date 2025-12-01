@@ -4,9 +4,9 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+#### [IFood Deepdive](/bank)
+[<img src="images/ifood.jpg?raw=true"/>](https://www.linkedin.com/pulse/interesting-insights-ifoods-yearly-sales-barnabas-szabo-rhybe/?trackingId=1ex4uER9Sy2djCPJQ01a3Q%3D%3D)
+IFood Analysis 
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
